@@ -1,0 +1,434 @@
+[
+  {
+    "uuid": "eea6812f-53ef-4a92-8865-129f53348fce",
+    "created_at": "2024-02-07 00:07:00",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "You",
+    "message": "如何养猫",
+    "is_deleted": false
+  },
+  {
+    "uuid": "3b5e3bfc-aec8-42e5-b0bd-f0a088c62792",
+    "created_at": "2024-02-07 00:07:00",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "AI",
+    "message": "养猫需要给予照顾和关注,下面是一些养猫的基本指南:\n\n1. 提供合适的食物和水:猫需要高质量的猫粮和清洁的饮用水。可以向兽医咨询猫的营养需求,并根据其年龄和体重来选择适当的食物和喂食次数。\n\n2. 给予猫足够的运动和活动:猫需要锻炼身体,同时也需要有自由活动的空间。为猫提供玩具、攀爬架和适当的空间,可以帮助它们消耗精力和保持健康。\n\n3. 经常进行梳理和清洁:猫需要定期的梳理和清洁,以保持其皮毛的健康和干净。此外,可以定期为猫咪修剪指甲。\n\n4. 给予足够的关注和互动:猫是社交动物,需要与人类建立联系。与猫咪互动可以建立起友谊,也可以减轻猫咪的孤独感。\n\n5. 定期带猫去兽医检查:定期带猫去兽医检查可以确保它们的健康状况,并及早发现潜在的健康问题。\n\n6. 提供清洁的猫砂盆:猫需要有一个干净的猫砂盆,可以让它们随时使用。定期清理猫砂盆可以保持它们的健康和卫生。\n\n7. 为猫提供安全的居住环境:猫需要一个安全、干净和舒适的生活环境,为它们提供适当的居住条件可以让它们感到安全和舒适。\n\n养猫需要给予足够的关注和照顾,建立良好的关系,并在生活中提供适当的保护和照顾。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "d10d8a74-f9e8-4777-bdc6-4d9e46a44475",
+    "created_at": "2024-02-07 00:18:14",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "You",
+    "message": "如何拼模型",
+    "is_deleted": false
+  },
+  {
+    "uuid": "a36068d3-30b1-48ad-a6ce-9d218a0edc98",
+    "created_at": "2024-02-07 00:18:14",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "AI",
+    "message": "拼模型需要以下步骤：\n\n1. 准备模型：购买并准备想要拼的模型。模型可以来自任何地方，如模型商店、玩具店等。\n\n2. 了解说明书：认真阅读模型说明书，了解模型的构造和拼装细节。说明书通常提供了关于模型尺寸、形状和配件的信息。\n\n3. 选择场地：选择一个平坦、干净的场地，以便能够安全地拼装模型。\n\n4. 准备工具：根据说明书，准备所需的工具，例如螺丝刀、钳子和小刀等。\n\n5. 开始拼装：按照说明书中的说明，逐步组装模型。这可能需要一些时间和耐心，但不要灰心。\n\n6. 完成模型：当模型完全组装时，恭喜完成模型！可以放在展示柜中，或者作为礼物送给朋友或家人。\n\n需要注意的是，拼模型需要耐心和细心，因为模型可能会有一些小配件需要仔细寻找和安装。同时，为了确保安全，请不要使用过度力量，以免损坏模型。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "f10c8eed-a0ac-40a6-b59a-7954da9833fb",
+    "created_at": "2024-02-07 23:17:25",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "You",
+    "message": "编程中的 MVC 是什么意思",
+    "is_deleted": false
+  },
+  {
+    "uuid": "e39e8ce4-eddd-4583-9f51-1073f899589e",
+    "created_at": "2024-02-07 23:17:25",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "AI",
+    "message": "编程中的 MVC 是 Model-View-Controller 的缩写，它是一种设计模式，常用于软件开发中。\n\nMVC 模式将应用程序分解为三个部分：\n\n1. 模型 (Model)：模型表示应用程序的数据和业务逻辑，它负责处理应用程序的数据存储和检索。\n2. 视图 (View)：视图表示应用程序的用户界面，它负责向用户显示模型中的数据。\n3. 控制器 (Controller)：控制器是应用程序中的协调器，它负责接收视图的用户输入，并更新模型中的数据以响应用户输入。\n\n通过将应用程序分解为这三个部分，MVC 模式可以实现高内聚、低耦合的设计原则，从而使应用程序更易于维护和扩展。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "33df01d6-ce46-4548-98b2-89ea81943e64",
+    "created_at": "2024-02-22 13:36:15",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "You",
+    "message": "C语言的 cast 是什么意思",
+    "is_deleted": false
+  },
+  {
+    "uuid": "99de1532-6bcd-464a-975b-73b58ff1f3c0",
+    "created_at": "2024-02-22 13:36:15",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "AI",
+    "message": "在 C 语言中，cast 是一个关键字，用于在运行时将指向基类的指针转换为指向派生类的指针。\n\n在 C++ 中，cast 同样是一个关键字，用于在运行时将指向基类的指针转换为指向派生类的指针。但是，在 C++ 中，cast 还可以用于将指向派生类的指针转换为指向基类的指针。\n\n总的来说，cast 关键字用于在运行时进行类型转换，将指向基类的指针转换为指向派生类的指针。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "578cd42c-95f1-4fe8-8ac9-83780af4b9fb",
+    "created_at": "2024-02-22 13:36:56",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "You",
+    "message": "C# 的装箱拆箱是什么意思",
+    "is_deleted": false
+  },
+  {
+    "uuid": "54422bd3-e75c-465d-95a9-8e1bb8127436",
+    "created_at": "2024-02-22 13:36:56",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "AI",
+    "message": "I'm sorry, but I'm not sure what you're asking for. Could you please provide more context or clarify your question?",
+    "is_deleted": false
+  },
+  {
+    "uuid": "c58a9d19-f1ac-43ee-b19b-5f516d849da4",
+    "created_at": "2024-02-22 13:37:10",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "You",
+    "message": "pip install pyside6",
+    "is_deleted": false
+  },
+  {
+    "uuid": "ea04d500-1205-4ff3-a1fb-ee58c4f9c400",
+    "created_at": "2024-02-22 13:37:10",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "AI",
+    "message": "安装 PySide6 的过程中可能会遇到一些问题。这里是一些可能的原因和解决方法:\n\n1. Python 版本问题:PySide6 通常需要 Python 3.6 或更高版本才能运行。请确保你的计算机上安装了 Python 3.6 或更高版本。你可以在 Python 官网 (https://www.python.org/downloads/) 上下载 Python,或者使用以下命令安装特定版本的 Python:\n\n```\npip install pyenv-21.2.1\npython -m pyenv install 3.6.18\n```\n\n2. 缺少依赖项:在安装 PySide6 之前,可能需要先安装一些依赖项。可以尝试使用以下命令安装它们:\n\n```\npip install pyqt6-6.5.2\npip install -r requirements.txt\n```\n\n其中 `requirements.txt` 是你需要的所有依赖项的列表。如果你不知道需要安装哪些依赖项,可以查看 PySide6 的文档或询问社区。\n\n3. 安装失败:如果你在安装 PySide6 时遇到了错误,可以尝试使用以下命令重试:\n\n```\npip install --no-cache-dir -r requirements.txt\n```\n\n4. 遇到其他问题:如果你遇到了其他问题,可以查看 PySide6 的文档或询问社区。 PySide6 是一个广泛的库,可能会遇到各种问题。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "d5dc6f94-aa88-4103-b2f1-07042370165c",
+    "created_at": "2024-02-22 13:38:46",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "You",
+    "message": "控制 pyside 的 QScrollArea 对象滚动到底部",
+    "is_deleted": false
+  },
+  {
+    "uuid": "4336184a-70aa-411a-b13c-a7d7bbdc39c7",
+    "created_at": "2024-02-22 13:38:46",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "AI",
+    "message": "要控制 PySide 的 QScrollArea 对象滚动到底部，可以使用 `setVerticalScrollPosition()` 方法。该方法可以将垂直滚动位置设置为 QScrollArea 的最大值（即 `QScrollArea.MAX_VERTICAL`），这样就可以将滚动条滚动到顶部。\n\n以下是一个示例代码，演示如何将 QScrollArea 对象滚动到底部：\n\n```python\nfrom PySide2.QtWidgets import QApplication, QWidget, QScrollArea\n\nclass Example(QWidget):\n    def __init__(self):\n        super().__init__()\n        self.setGeometry(100, 100, 400, 300)\n        self.setWindowTitle('Example')\n\n        # 创建 QScrollArea 对象\n        self.scroll = QScrollArea(self)\n        self.scroll.setWidget(self.content)\n        self.scroll.setVerticalScrollPosition(QScrollArea.MAX_VERTICAL)\n\n        # 添加一个按钮，用于滚动到顶部\n        self.scroll_up = QPushButton('', self)\n        self.scroll_up.setEnabled(False)\n        self.scroll_up.clicked.connect(self.scroll_up_handler)\n\n    def scroll_up_handler(self):\n        self.scroll.setVerticalScrollPosition(QScrollArea.MIN_VERTICAL)\n\n# 在应用程序中创建一个实例\napp = QApplication([])\nex = Example()\nex.show()\n```\n\n在这个示例中，我们创建了一个名为 `Example` 的自定义窗口，并在其中添加了一个 `QScrollArea` 对象。我们使用 `setVerticalScrollPosition()` 方法将垂直滚动位置设置为 `QScrollArea.MAX_VERTICAL`，这样就可以将滚动条滚动到顶部。我们还添加了一个按钮，用于滚动到顶部，该按钮使用 `scroll_up_handler` 信号连接到 `scroll_up` 方法的实现。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "b1f922e7-f1c5-436d-8e95-9cd6479bb468",
+    "created_at": "2024-02-22 13:49:17",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "You",
+    "message": "你可以连续对话码",
+    "is_deleted": false
+  },
+  {
+    "uuid": "6ff0de27-74e3-4b65-bc78-dd4de1682ce1",
+    "created_at": "2024-02-22 13:49:17",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "AI",
+    "message": "当然可以，我可以根据您提供的上下文连续回答问题。请告诉我您想要了解的内容，我会尽力为您提供帮助。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "74fc098e-68ec-4139-bff8-cc91a91e04d0",
+    "created_at": "2024-02-22 13:49:29",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "You",
+    "message": "我刚才说了什么",
+    "is_deleted": false
+  },
+  {
+    "uuid": "05f00440-2439-4425-87f3-199f690d7b6d",
+    "created_at": "2024-02-22 13:49:29",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "AI",
+    "message": "很抱歉，由于我是一个基于文本的AI助手，我无法回顾之前的对话。请提供更多的信息，我会尽力回答您的问题。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "576e2295-d308-449f-aeac-d022d9b3361a",
+    "created_at": "2024-02-22 14:00:58",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "You",
+    "message": "特斯拉 model y",
+    "is_deleted": false
+  },
+  {
+    "uuid": "9957ae17-fe4d-42b8-9978-40d41949ddf4",
+    "created_at": "2024-02-22 14:00:58",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "AI",
+    "message": "特斯拉 Model Y 是一款由特斯拉公司生产的电动汽车，它是特斯拉 Model S 系列的衍生车型。Model Y 拥有与 Model S 相同的铝合金底盘和电动机，并具有更长的续航里程和更大的内部空间。\n\n特斯拉 Model Y 是一款豪华的电动汽车，它的内部装饰和设备与 Model S 相当，包括一个豪华的中控台、多种驾驶模式和高级音响系统。此外，Model Y 还配备了一个独特的、可调节的座椅系统，以及一个巨大的 12.3 英寸触摸屏，用于控制信息娱乐系统和导航系统。\n\n Model Y 还拥有比 Model S 更大的车尾空间，可以容纳更多的物品，以及一个独特的、用于存放行李箱的储物柜。此外，Model Y 还配备了特斯拉的超级充电系统，可以在短时间内快速充电，使旅行更加方便。\n\n总的来说，特斯拉 Model Y 是一款高品质、豪华的电动汽车，适合那些追求高品质和空间的消费者。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "3218daf0-c87e-46a5-9a3c-85279d93158d",
+    "created_at": "2024-02-22 14:01:41",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "You",
+    "message": "ABBA 乐队",
+    "is_deleted": false
+  },
+  {
+    "uuid": "722d08a5-965c-4c29-94a2-6bf21da2f7f1",
+    "created_at": "2024-02-22 14:01:41",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "AI",
+    "message": "ABBA 乐队是 1970 年代的瑞典流行乐队，由吉他手兼歌手弗雷迪·佩里 (Freddie Perri)、鼓手托尼·林德 (Tony Lind)、吉他手安斯·哈默 (Anders沪默) 和键盘手比约恩·安德森 (Bjorn Ulvaeus) 组成。该乐队最著名的歌曲包括《草地上的月亮 (Moon Over My Hometown)》、《跳舞皇后 (Dancing Queen)》、《毁灭者 (The Destroyer)》、《聪明女孩 (Ever聪明) 等。ABBA 乐队在 1970 年代和 1980 年代早期取得了巨大的成功，是史上最成功的瑞典乐队之一。该乐队成员于 2001 年组成了一个慈善乐队，名为 ABBA 乐队的热心慈善组织 (ABBA神州慈善演出)。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "abe5dba1-7d86-4467-b779-d77badd5519a",
+    "created_at": "2024-02-22 14:19:11",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "You",
+    "message": "皮卡丘",
+    "is_deleted": false
+  },
+  {
+    "uuid": "3bc72980-f83a-4814-8437-49de63e386f5",
+    "created_at": "2024-02-22 14:19:11",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "AI",
+    "message": "皮卡丘 (Pikachu) 是日本任天堂公司开发的掌机游戏系列《口袋妖怪》中登场精灵中的一种。它是最受欢迎的口袋妖怪之一，也是该系列的代表性角色之一。\n\n皮卡丘是一种电属性宝可梦，其外观类似于鼠类和猫类动物，身体覆盖着红色的外壳，头部有两只小耳朵和一只红色的眼睛。它可以通过充电和放电来攻击敌人，还可以使用各种技能来攻击和防御。\n\n皮卡丘在游戏系列中拥有许多不同的变体，例如皮卡丘 evolves into 雷丘 (Res雷)，拥有了更高的攻击和防御能力。此外，皮卡丘还有许多其他的变体，例如皮卡丘思念症 (Pika-niiro) 和皮卡丘冰封世界 (Pika-k寥)。\n\n皮卡丘系列游戏在全球范围内都取得了巨大的成功，并成为任天堂公司最受欢迎的游戏之一。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "87b6400e-b0ef-44af-94ec-718d35cf51db",
+    "created_at": "2024-02-22 14:19:48",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "You",
+    "message": "讲个笑话",
+    "is_deleted": false
+  },
+  {
+    "uuid": "72f73992-4870-435c-8713-bb3e48ef561a",
+    "created_at": "2024-02-22 14:19:48",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "AI",
+    "message": "好的，给您讲个简短的笑话。\n\n有一只聪明的猴子，它在森林里生活。有一天，它发现一颗漂亮的桃子树上结满了桃子。\n\n猴子非常想尝尝这些桃子，于是它开始寻找机会。它找到了一只机会，趁人不注意，迅速地爬到桃子树上，然后小心翼翼地摘下了一个桃子。\n\n猴子觉得自己很聪明，但桃子很快让它失望了。桃子非常小，比它的头还小。\n\n猴子感到非常沮丧，于是它想出了一个计划。它继续寻找机会，这次它成功地摘下了一个桃子。\n\n然而，这个桃子比上一次的更大，猴子觉得它终于摘到了一个足够大的桃子。它非常高兴，但很快它又失望了。\n\n这个桃子仍然比它的头小，猴子感到非常沮丧。它开始意识到，无论它怎么努力，它都不可能摘到比它的头还大的桃子。\n\n于是，猴子最终放弃了，它说：“放弃吧，我永远也摘不到比我的头还大的桃子。”\n\n这就是这个笑话的故事，它告诉我们，有时候我们可能会聪明地想要做出一些事情，但最终我们发现并不能做到。所以，我们要学会接受现实，不要努力去追求不可能的事情。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "9e046d7b-6373-4033-9b89-c57661b8afa7",
+    "created_at": "2024-02-22 14:21:40",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "You",
+    "message": "讲个笑话",
+    "is_deleted": false
+  },
+  {
+    "uuid": "13b9dca7-a3f1-404a-b3f0-d212e4351340",
+    "created_at": "2024-02-22 14:21:40",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "AI",
+    "message": "下面是一个简短的笑话:\n\n有一天,一只熊走进了一家餐厅。熊说:“我想要一份......”\n\n然后服务员打断了他的话,说:“对不起,我们这里不接受动物点餐。”\n\n熊非常生气,但还是离开了餐厅。几分钟后,他又回来了,走到了另一个服务员面前,说:“我想要一份......”\n\n服务员打断了他的话,说:“我刚才已经告诉你了,我们不接受动物点餐。”\n\n熊又一次离开了餐厅。但是他并没有放弃。他再次回到了餐厅,这次他换了一身餐厅工作人员的衣服,戴上了一顶帽子。他走到了另一个服务员面前,说:“我想要一份......”\n\n服务员打断了他的话,说:“你就是那只熊吧?”\n\n熊非常吃惊,他问道:“你怎么知道我是熊?”\n\n服务员回答说:“因为这不是一家餐厅,这是一个动物园。”",
+    "is_deleted": false
+  },
+  {
+    "uuid": "b9abf9bf-3c6e-4c09-8d8a-eae81207f26b",
+    "created_at": "2024-03-12 17:53:55",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "You",
+    "message": "上一届亚运会在哪个城市举行",
+    "is_deleted": false
+  },
+  {
+    "uuid": "a8a3f999-944d-4f1d-8d42-e43c8bb88431",
+    "created_at": "2024-03-12 17:53:55",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "AI",
+    "message": "上一届亚洲运动会是在 2018 年在印度的班加罗尔举行的。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "192de538-859a-4325-ad09-ee0fce35da17",
+    "created_at": "2024-03-12 18:51:06",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "You",
+    "message": "你是谁",
+    "is_deleted": false
+  },
+  {
+    "uuid": "261046b6-cce9-4b81-8f6c-9629c70f434a",
+    "created_at": "2024-03-12 18:51:06",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "AI",
+    "message": "我是 ChatGLM，是基于智谱 AI 公司于 2023 年训练的语言模型开发的人工智能助手。我的任务是针对用户的问题和要求提供适当的答复和支持。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "cf096251-170d-47f8-9a65-d707183c9159",
+    "created_at": "2024-03-12 18:51:33",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "You",
+    "message": "你是什么模型",
+    "is_deleted": false
+  },
+  {
+    "uuid": "903f25f8-2c3e-4b56-9d4a-268ac7231d16",
+    "created_at": "2024-03-12 18:51:33",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "AI",
+    "message": "我是一个计算机程序,是一个人工智能模型,被训练来模拟人类的对话和回答问题。我使用的模型是清华大学 KEG 实验室和智谱AI共同训练的 GLM 模型,是一种基于 Transformer 的通用预训练语言模型。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "e0f2e112-2066-4c09-aaf4-3450f8308dce",
+    "created_at": "2024-03-12 18:52:22",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "You",
+    "message": "最新的 iPhone 是什么型号",
+    "is_deleted": false
+  },
+  {
+    "uuid": "3dffb97f-9d07-474c-8f0a-cbc60053ee7a",
+    "created_at": "2024-03-12 18:52:22",
+    "updated_at": "2024-03-19 17:27:05",
+    "sender": "AI",
+    "message": "截至本文编写时，最新的 iPhone 型号是 iPhone 13 系列。iPhone 13 系列包括 iPhone 13、iPhone 13 mini、iPhone 13 Pro 和 iPhone 13 Pro Max。这些手机采用了新的外观和配置，包括更耐用的设计、更好的隐私保护和更好的摄像头性能。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "5ab727c4-5790-47fe-af02-a316a572c49b",
+    "created_at": "2024-03-20 10:06:45",
+    "updated_at": null,
+    "sender": "You",
+    "message": "如何申请你的 API",
+    "is_deleted": false
+  },
+  {
+    "uuid": "7b01642e-f0ca-43ce-ae86-095fe7acca6c",
+    "created_at": "2024-03-20 10:06:45",
+    "updated_at": "2024-03-20 10:06:53",
+    "sender": "AI",
+    "message": "由于我是一个计算机程序，您需要通过与我交互来使用我的 API。如果您想使用我的 API，您需要首先联系我，然后获得我的 API密钥。您可以通过以下步骤联系我：\n\n1. 访问我的网站，找到我的联系方式。\n2. 发送电子邮件到我的电子邮件地址，向我提出您的问题或请求。\n3. 如果我将回答您的问题，我会通过电子邮件向您提供我的 API 密钥。\n\n请注意，您需要遵守适用的法律和规定，包括数据保护和隐私法律。您需要妥善保管我的 API 密钥，并负责确保您的使用符合我的使用条款。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "26ead114-3748-44c8-99a2-49340bbd961d",
+    "created_at": "2024-03-20 10:17:26",
+    "updated_at": null,
+    "sender": "You",
+    "message": "讲一个儿童睡前故事",
+    "is_deleted": false
+  },
+  {
+    "uuid": "b9910e0b-c75c-4076-93b8-41bd9ab8f084",
+    "created_at": "2024-03-20 10:17:26",
+    "updated_at": "2024-03-20 10:17:36",
+    "sender": "AI",
+    "message": "从前有一个小兔子,名叫小白。小白是一只非常聪明、勇敢和好奇的小兔子。他总是想要探索世界,学习新事物。但是每当太阳落山,天色渐暗,小白总是害怕,因为他害怕黑暗中的未知事物。\n\n一天晚上,小白躺在床上,看到窗外的星星闪烁。他感到非常好奇,想知道更多关于星星的事情。于是他决定去寻找一位聪明的朋友,可以解答他的问题。\n\n他拿起他的小背包,悄悄地离开了家。他穿过草原和森林,在月光下漫步,一路上遇到了许多动物朋友,他们都非常友好,给了他很多有用的建议。\n\n终于,小白遇到了一只非常聪明的老猫。老猫告诉小白,星星是天空中的闪烁物体,是太阳照耀在它们的表面上的光芒。他解释说,即使你喜欢黑暗,星星总是在那里,并且可以帮助人们找到方向。\n\n小白听完后,感到非常感激。他回到了家,躺在床上,眼睛依然睁着,但他不再害怕黑暗中的未知事物了。他知道自己可以永远相信自己的能力,并且可以一直学习和成长。\n\n从那天起,小白变得更加勇敢和自信。他开始尝试新的事物,并且不再害怕失败。他知道,只要他相信自己,他可以实现任何梦想。\n\n最后,小白闭上眼睛,入睡了。他感到非常幸福,因为他知道自己可以一直成长,并且拥有无限的潜力。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "4f517919-efa1-4c63-99a8-ee9ab80adf01",
+    "created_at": "2024-03-20 10:18:09",
+    "updated_at": null,
+    "sender": "You",
+    "message": "讲一个情节跌宕起伏的睡前故事",
+    "is_deleted": false
+  },
+  {
+    "uuid": "277a5a60-bacc-4148-a81a-a18a43a5b892",
+    "created_at": "2024-03-20 10:18:09",
+    "updated_at": "2024-03-20 10:18:23",
+    "sender": "AI",
+    "message": "很久很久以前,有个男孩叫小明,他住在一个小山村里。小明的父母都是农民,他们一年四季都在田间劳作,辛勤耕耘,希望能为社会做出贡献。\n\n有一天,小明和他的好朋友小花一起去山上玩耍。他们沿着小路一直走到了山脚下,发现一条小溪流过山间。他们顺着溪流走了很久,发现了一个神秘的山洞。\n\n小花说:“我们来这里看看吧!”\n\n小明犹豫了一下,但还是跟着小花进了山洞。他们沿着洞内的墙壁,摸着石壁上的青苔,听着流水的声音,仿佛置身于一个神秘的世界中。\n\n突然,他们发现了一扇被木板遮盖住的小门。门上有一个锁,但木板并不牢固。他们想尝试打开这扇门,但一直无法成功。\n\n小明决定去寻找一些工具,于是他和小花开始四处寻找。他们找到了一根长长的木棒,和一些石头和树枝。他们把这些东西拿回来,试着打开了那扇门。\n\n门后面是一条狭窄的通道,通道两旁都是高大的石柱。他们顺着通道走了一会儿,发现了一个古老的宝箱。\n\n小明说:“我们来试试这个宝箱!”\n\n他们打开了宝箱,发现里面有一枚闪闪发光的宝石和一把金色的钥匙。小花说:“这把钥匙好厉害啊!”\n\n他们正准备离开山洞,但突然,一阵巨响从前方的山洞中传来。小明说:“我们得小心一点!”\n\n他们迅速地躲到了石柱后面,只见一只巨大的狮子从山洞中冲了出来。狮子咆哮着,向小明和小花扑来。\n\n小明拿出手中的木棒,试着攻击狮子。狮子很快退却了,但小明也受了些伤。他们决定放弃这枚宝石,带着受伤的小花,赶紧回到村子。\n\n回到村子后,小明和小花告诉了村民们他们发现的事情。村民们说,这个山洞里有一个古老的传说,传说这里曾经住着一位神秘的守护者,他的身份是神圣的。\n\n从此,小明和小花以及村民们,都尊重着这个传说,不再去山洞打扰守护者。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "d3b93c6c-96e0-4c1a-af84-0507c6a2cede",
+    "created_at": "2024-03-20 11:10:51",
+    "updated_at": null,
+    "sender": "You",
+    "message": "丁真",
+    "is_deleted": true
+  },
+  {
+    "uuid": "bdb7d8f2-ad92-4555-ac0d-cb202329d35b",
+    "created_at": "2024-03-20 11:10:51",
+    "updated_at": "2024-03-20 11:10:57",
+    "sender": "AI",
+    "message": "丁真是一位来自贵州省的藏族男孩，他于 2001 年 5 月 7 日出生。丁真以他纯真朴素的笑容在网络上迅速走红，成为了新晋顶流，也被誉为是“行走的藏族密码”。\n\n丁真在 2020 年初因疫情滞留在中国内地，在网络上因他纯真的笑容被人们发现并迅速传播，引起了广泛的关注。他的笑容被认为是一种“密码”，可以感染和治愈人们的心灵。丁真的纯真和朴素的笑容，成为了人们向往和追求的理想状态，也代表了一种简单、纯真和美好的生活态度。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "a447ac06-6576-41b1-98a2-499d5a667576",
+    "created_at": "2024-03-20 11:27:25",
+    "updated_at": null,
+    "sender": "You",
+    "message": "让 pyside6 的 QLabel 中的文本可以选择",
+    "is_deleted": false
+  },
+  {
+    "uuid": "7e6896c8-f063-474b-a1a7-12d78fcc00e0",
+    "created_at": "2024-03-20 11:27:25",
+    "updated_at": "2024-03-20 11:27:41",
+    "sender": "AI",
+    "message": "要让 PySide6 的 QLabel 中的文本可以选择，可以使用 `QTextEdit` 控件代替 `QLabel`。`QTextEdit` 控件提供了更多的功能，如选择字体、字号、颜色等，并且可以设置文本内容。以下是一个简单的示例，演示如何使用 `QTextEdit` 控件来实现文本选择功能：\n\n首先，在 `main.py` 文件中导入必要的控件：\n\n```python\nfrom PySide6 import QtWidgets, QtGui\nfrom PySide6.QtCore import Qt\nfrom PySide6.QtText import QTextEdit\n```\n\n然后，创建一个 `QApplication` 实例并创建一个主窗口：\n\n```python\napp = QtWidgets.QApplication(None, Qt.Application OPTIONS)\nwindow = QtWidgets.QMainWindow()\n```\n\n在主窗口中添加一个 `QTextEdit` 控件，并设置其内容：\n\n```python\ntext_edit = QTextEdit()\ntext_edit.setHorizontalHeader('Text', 'Hello, World!')\ntext_edit.resize(300, 100)\nwindow.setCentralWidget(text_edit)\n```\n\n接下来，为 `QTextEdit` 控件添加一个 `textChanged` 事件处理程序，以便在选择文本时执行相应的操作：\n\n```python\ntext_edit.textChanged.connect(text_changed_handler)\n\ndef text_changed_handler(text_edit):\n    print('Text changed:', text_edit.text())\n```\n\n最后，为 `QTextEdit` 控件添加一个 `selectAll` 按钮，以便选择整个文本：\n\n```python\ntext_edit.setButton('selectAll', text_edit.textChanged.connect(text_changed_handler))\n```\n\n这样，用户就可以选择 `QTextEdit` 控件中的文本了。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "1e649c3f-4aac-4c36-a128-9e883c4b8398",
+    "created_at": "2024-03-20 11:36:34",
+    "updated_at": null,
+    "sender": "You",
+    "message": "讲个苏联笑话",
+    "is_deleted": false
+  },
+  {
+    "uuid": "9b2f2b33-c15e-40da-92c8-3d312d8974e7",
+    "created_at": "2024-03-20 11:36:34",
+    "updated_at": "2024-03-20 11:36:41",
+    "sender": "AI",
+    "message": "这是一个经典的笑话：\n\n有一次，苏联领袖勃列日涅夫和美国总统约翰·肯尼迪一起坐飞机飞行。忽然飞机遇到了问题，开始下坠。勃列日涅夫和肯尼迪都惊恐万分，但勃列日涅夫仍然试图保持镇静。他向肯尼迪解释说：“不用担心，我们苏联飞行员都接受了非常严格的训练，我们会把飞机稳稳地降落的。”\n\n肯尼迪听了之后，非常吃惊，他问：“你们的飞行员都接受了这么严格的训练，为什么还是经常出事故呢？”\n\n勃列日涅夫想了一下，回答道：“你们美国人应该知道，我们苏联的天空是非常狭窄的，所以我们的飞行员很少有机会训练着陆。”\n\n这个笑话通过幽默的方式揭示了苏联时期的现实问题，即缺乏资源和机会，但也反映了苏联人对自己的国家的幽默和自嘲的态度。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "752d9f64-6f92-4d9d-b950-3c8dcd85ff0f",
+    "created_at": "2024-03-20 11:39:25",
+    "updated_at": null,
+    "sender": "You",
+    "message": "你是什么模型",
+    "is_deleted": false
+  },
+  {
+    "uuid": "9c08152d-cdcc-4bfe-a4c8-496b7f5c96d9",
+    "created_at": "2024-03-20 11:39:25",
+    "updated_at": "2024-03-20 11:39:29",
+    "sender": "AI",
+    "message": "我是一个计算机程序,具体来说是一个大型语言模型。我被训练来预测人类语言,可以回答问题、提供建议和指导,并进行各种交流。我的模型基于人工智能技术,使用大量的数据进行训练,能够理解和使用自然语言。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "91651d81-a25a-455b-99b4-30d9276eff82",
+    "created_at": "2024-03-20 11:39:35",
+    "updated_at": null,
+    "sender": "You",
+    "message": "你是谁",
+    "is_deleted": false
+  },
+  {
+    "uuid": "8c6057dc-0ce2-4819-a963-598179da5fb8",
+    "created_at": "2024-03-20 11:39:35",
+    "updated_at": "2024-03-20 11:39:37",
+    "sender": "AI",
+    "message": "我是 ChatGLM，是基于智谱 AI 公司于 2023 年训练的语言模型开发的人工智能助手。我的任务是针对用户的问题和要求提供适当的答复和支持。",
+    "is_deleted": false
+  },
+  {
+    "uuid": "c5581516-33ea-4c65-b0c9-091510721072",
+    "created_at": "2024-03-20 11:45:58",
+    "updated_at": null,
+    "sender": "You",
+    "message": "写一篇关于装修避雷的小红书文案",
+    "is_deleted": false
+  },
+  {
+    "uuid": "e5c2ff85-d48c-407a-9818-c3fe5051cbf6",
+    "created_at": "2024-03-20 11:45:58",
+    "updated_at": "2024-03-20 11:46:10",
+    "sender": "AI",
+    "message": "【装修避雷指南】这篇小红书文案\n\n标题：装修避雷指南，这些细节你一定要注意！\n\n导语：房屋装修是一个复杂的过程，需要我们花费大量的时间和精力。然而，在这个过程中，我们很容易忽略一些细节，导致最终的装修效果并不理想。因此，这篇文章将为你提供一些装修避雷指南，让你在装修过程中少走弯路。\n\n一、水电改造\n\n1. 水电改造要提前规划\n\n2. 选择合适的电线和插座\n\n3. 水电改造完成后要进行测试\n\n二、墙面处理\n\n1. 墙面处理要谨慎选择\n\n2. 避免使用过多石膏板\n\n3. 做好墙面保护\n\n三、地面铺设\n\n1. 选择合适的地面材料\n\n2. 做好地面的防水处理\n\n3. 避免选择过于花哨的地面砖\n\n四、家具选择\n\n1. 家具选择要与房间环境相匹配\n\n2. 选择质量好、甲醛含量低的家具\n\n3. 考虑家具的储物空间\n\n五、灯光设计\n\n1. 灯光设计要注重实用和美观\n\n2. 选择合适的灯光类型\n\n3. 避免过度照明\n\n六、软装搭配\n\n1. 软装搭配要协调一致\n\n2. 选择符合自己需求的软装风格\n\n3. 避免软装过于繁琐\n\n结语：\n\n以上这些装修避雷指南，都是我们在进行房屋装修时需要注意的细节。只有注意到这些细节，我们才能拥有一个舒适、美观的新家。如果你在装修过程中遇到了问题，可以随时咨询专业的装修师傅，他们会为你提供更实用的建议。祝你的装修工程顺利！",
+    "is_deleted": false
+  }
+]
